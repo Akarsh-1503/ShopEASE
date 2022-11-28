@@ -1,0 +1,11 @@
+
+
+
+export const GET_PRODUCT_SUCCESS= 'getProductSuccess';
+export const GET_PRODUCT_FAIL= 'getProductFail';
+
+
+export const GET_PRODUCT_DETAIL_SUCCESS='getProductDetailSuccess'
+export const GET_PRODUCT_DETAIL_FAIL='GET_PRODUCT_DETAIL_FAIL'
+export const GET_PRODUCT_DETAIL_REQUEST='GET_PRODUCT_DETAIL_REQUEST'
+export const GET_PRODUCT_DETAIL_RESET='GET_PRODUCT_DETAIL_RESET'
