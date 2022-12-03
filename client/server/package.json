@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Akarsh-1503.github.io/Flipkart-Clone",
   "name": "server",
   "version": "1.0.0",
   "description": "",
@@ -6,11 +7,12 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "client-install":"cd client && npm install",
-    "client-build":" cd client && npm run build",
-    "heroku-postbuild":"npm run client-install && npm run client-build"
-  
+    "client-install": "cd client && npm install",
+    "client-build": " cd client && npm run build",
+    "heroku-postbuild": "npm run client-install && npm run client-build"
   },
   "author": "",
   "license": "ISC",
@@ -22,5 +24,8 @@
     "express": "^4.18.2",
     "mongoose": "^6.6.5",
     "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
