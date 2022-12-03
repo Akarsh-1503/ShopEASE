@@ -7,10 +7,9 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "build": "react-scripts build",
     "client-install": "cd client && npm install",
     "client-build": " cd client && npm run build",
-    "predeploy": "npm run client-install && npm run client-build",
+    "postdeploy": "npm run client-install && npm run client-build",
     "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "heroku-postbuild": "npm run client-install && npm run client-build"
