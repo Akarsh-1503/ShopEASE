@@ -19,7 +19,6 @@ Frontend is build on React framework with Expreed & NodeJS server as backend and
 - React V16+ (Frontend)
 - MongoDB (Database and Authentication)
 - Node and Express (Backend Server)
-- Paytm Demo API (For simulating Demo Payment Experience)
 
 
 
