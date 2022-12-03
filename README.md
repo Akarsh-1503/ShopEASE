@@ -5,7 +5,8 @@ Navigation Bar has been added for searching items and ease of navigation between
 <br>
 <br>
 Also the project has been deployed on Heroku .<br>
-You can visit the deployed website here - <u>https://ecommerceflipkartclone05.herokuapp.com/ </u> <br>
+You can visit the deployed website here - <u><s> https://ecommerceflipkartclone05.herokuapp.com/ </s></u> <br>
+<i>Currently working on Deployment due to glitch on heroku</i>
 
 Frontend is build on React framework with Expreed & NodeJS server as backend and MongoDB for database . (MERN Stack)
 <br>
