@@ -14,7 +14,25 @@ Frontend is build on React framework with Expreed & NodeJS server as backend and
 # DEMO
 
 ## HOMEPAGE TOUR
-![](https://github.com/anshumyname/FlipkartClone/blob/main/videos/homepage_tour.gif)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/103405266/208294511-db81c17a-3ea8-444d-9cd0-64c89c4e0980.png">
+
+
+# Login
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/103405266/208294540-5c2b31f6-99cd-4f76-b07f-573e4af6c748.png">
+
+
+# Signup
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/103405266/208294549-812836f2-af99-4c2b-a0b6-5c7a066aa178.png">
+
+
+# Cart
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/103405266/208294751-546da4ef-b8be-4a6f-a8b7-036979a6351e.png">
+
+
+# Payment demo
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/103405266/208294670-22ea9d63-4e26-424c-939f-09a2b8c7c7d3.png">
+
+
 
 # TECHSTACK
 - React V16+ (Frontend)
