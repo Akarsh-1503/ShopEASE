@@ -1,4 +1,4 @@
-# FLIPKART CLONE
+# ShopEASE
 
 In this project I have tried to create a e-commerce shopping website similar to Flipkart. It has the basic functionalities of Login, MenuView for items, Detail View for specific item, and also Cart View where one can add or delete items to be purchased.
 Navigation Bar has been added for searching items and ease of navigation between pages.
